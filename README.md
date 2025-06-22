@@ -1,11 +1,11 @@
-PREREQISITES:
+**PREREQISITES:**
 1. Please install latest stable version of Golang and docker
 2. Verify that docker engine is running
 3. cURL is installed
 4. For Detailed architecture refer to docs/backend_architecture.md
 
 
-Steps to execute the code:
+**Steps to execute the code:**
 1. git clone git@github.com:vijayshahwal/jobScheduling.git
 2. cd jobScheduling/
 3. go mod init github.com/vijayshahwal/jobScheduling
