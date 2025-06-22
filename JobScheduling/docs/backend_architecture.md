@@ -73,7 +73,7 @@ type Container struct {
 ### 3. Schedule Management
 - Two Schedule Types:
   1. Fixed Schedule (interval-based)
-  2. Custom Schedule (cron-based)
+  2. Custom Schedule (cron-based i.e used standard cronExpresion)
 - Schedule Processing:
   1. Scan Redis for job keys
   2. Load schedule details
